@@ -1,2 +1,2 @@
 # Capt3D
-A simple javascript 3D Engine
+A simple(meaning almost useless) javascript 3D Engine
